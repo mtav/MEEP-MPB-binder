@@ -5,3 +5,4 @@ channels:
 dependencies:
   - pymeep
   - pymeep-extras
+prefix: /srv/conda/envs/notebook
