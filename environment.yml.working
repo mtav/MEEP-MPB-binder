@@ -1,8 +1,0 @@
-name: notebook
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - pymeep
-  - pymeep-extras
-prefix: /srv/conda/envs/notebook
