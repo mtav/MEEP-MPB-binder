@@ -5,5 +5,6 @@ channels:
 dependencies:
   - pymeep
   - pymeep-extras
+  - pip
   - pip:
     - tmm
