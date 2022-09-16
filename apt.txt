@@ -1,0 +1,5 @@
+h5utils
+graphicsmagick
+texlive-xetex
+texlive-fonts-recommended
+texlive-plain-generic
